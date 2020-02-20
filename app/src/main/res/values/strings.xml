@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login-1</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_in_with_facebook">Sign In with Facebook</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? Register Now</string>
+
+
+</resources>
