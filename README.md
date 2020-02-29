@@ -2,7 +2,7 @@
 
 This repository contains the UI code of the screen shown below:
 
-#### Note - There are no libraries used in this project.
+#### Note - There are no external libraries used in this project.
 
 
 ##
